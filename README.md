@@ -35,7 +35,7 @@ Select "FaCoY search ---> " option.
 
 The whole code snippet will be automatically sent to "http://0.0.0.0:5000/?q=".
 
-This will result in a url ""http://0.0.0.0:5000/?q=<snippet>"
+This will result in a url ""http://0.0.0.0:5000/?q= _code-snippet_"
 
 FaCoY will search for similar snippets in its database and produce the result.
 
